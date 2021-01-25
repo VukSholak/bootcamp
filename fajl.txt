@@ -1,0 +1,53 @@
+    1  pwd
+    2  ls
+    3  ls-l
+    4  ls -l
+    5  cd Users
+    6  ls -l
+    7  cd Vuk SOlak
+    8  cd Vuk Solak
+    9  cd Vuk
+   10  cd VukSolak
+   11  cd Vuk Solak
+   12  cd 'Vuk Solak'
+   13  ls
+   14  cd Desktop
+   15  list -l
+   16  ls -l
+   17  cd ..
+   18  cd Desktop
+   19  cd ../..
+   20  cd ..
+   21  mkdir test123
+   22  cd test123
+   23  touch test.txt
+   24  nano test.txt
+   25  cat test.txt
+   26  ls
+   27  ls -l
+   28  man ls
+   29  history
+   30  history > istorija.txt
+   31  ls --help
+   32  rm test.txt
+   33  pwd
+   34  mk dir dir2
+   35  rmdir
+   36  rmdir2
+   37  cat istorija.txt
+   38  tail istorija.txt
+   39  head istorija.txt
+   40  date
+   41  time
+   42  ls -l
+   43  cd Users
+   44  ls -l
+   45  cd 'Vuk Solak'
+   46  ld -l
+   47  ls -l
+   48  cd Desktop
+   49  ls -l
+   50  mkdir novi
+   51  cd novi
+   52  touch fajl.txt
+   53  history > fajl.txt
